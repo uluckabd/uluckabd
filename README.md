@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**uluckabd/uluckabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">
+  👋 Merhaba, ben Abdullah Ulucak
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" >
+Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme alanında, özellikle Flutter ve Dart üzerine kendimi sürekli geliştirmeye çalışıyorum. Bu alanda online eğitimler alıyor, kurslara katılıyor, teknik yazılar okuyorum ve öğrendiklerimi pratiğe dökmek için projeler üretiyorum. Amacım, öğrendiklerimi kullanarak yenilikçi ve etkili mobil uygulamalar geliştirmek ve bu alanda ilerlemek.
+</h2>
+
+
+<p align="start">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:ulucakabdullah1@gmail.com">ulucakabdullah1@gmail.com</a>
+</p>
+
+---
+
+## 🛠️ Teknolojiler
+
+<p float="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square" height="40" />
+</p>
+
+---
+
+## 📫 İletişim
+
+<p align="center">
+  <a href="mailto:ulucakabdullah1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-ulucak-3b6b92333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@uluckabd" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=radical" width="48%">
+</div>
