@@ -1,4 +1,4 @@
-![Flutter](https://media.giphy.com/media/l4FGp6wKxLSrL1gT6/giphy.gif)
+![Flutter Logo](https://media.giphy.com/media/l0IxYD1nCjWk1V2h2/giphy.gif)
 
 <h1 align="center">
   👋 Merhaba, ben Abdullah Ulucak
