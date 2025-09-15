@@ -9,10 +9,7 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 </h2>
 
 
-<p align="start">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  <a href="mailto:ulucakabdullah1@gmail.com">ulucakabdullah1@gmail.com</a>
-</p>
+**E-posta:** [ulucakabdullah1@gmail.com](mailto:ulucakabdullah1@gmail.com)
 
 ---
 
