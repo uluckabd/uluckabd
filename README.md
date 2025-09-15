@@ -29,12 +29,10 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 
 ---
 
-## 📫 İletişim
+## 📫 Connect
 
 <p align="center">
-  <a href="mailto:ulucakabdullah1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/abdullah-ulucak-3b6b92333" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -47,7 +45,7 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 
 ## 📊 GitHub İstatistikleri
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=radical" width="48%">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=radical" width="49%">
 </div>
