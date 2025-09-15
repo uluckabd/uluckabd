@@ -1,4 +1,4 @@
-![Flutter Logo](https://media.giphy.com/media/l0IxYD1nCjWk1V2h2/giphy.gif)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <h1 align="center">
   👋 Merhaba, ben Abdullah Ulucak
