@@ -43,8 +43,8 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 
 ## 📊 GitHub İstatistikleri
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uluckabd&theme=radical" width="49%">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uluckabd&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
