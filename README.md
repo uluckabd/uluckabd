@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center" >
-Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme alanında, özellikle Flutter ve Dart üzerine kendimi sürekli geliştirmeye çalışıyorum. Bu alanda online eğitimler alıyor, kurslara katılıyor, teknik yazılar okuyor ve öğrendiklerimi pratiğe dökmek için projeler üretiyorum. Amacım, öğrendiklerimi kullanarak yenilikçi ve etkili mobil uygulamalar geliştirmek ve bu alanda ilerlemek.
+Bolu Abant İzzet Baysay Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme alanında, özellikle Flutter ve Dart üzerine kendimi sürekli geliştirmeye çalışıyorum. Bu alanda online eğitimler alıyor, kurslara katılıyor, teknik yazılar okuyor ve öğrendiklerimi pratiğe dökmek için projeler üretiyorum. Amacım, öğrendiklerimi kullanarak yenilikçi ve etkili mobil uygulamalar geliştirmek ve bu alanda ilerlemek.
 </h2>
 
 
@@ -43,8 +43,8 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uluckabd&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uluckabd&show_icons=true&theme=dracula" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uluckabd&theme=dracula" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluckabd&layout=compact&theme=dracula" />
+</div>
