@@ -6,6 +6,8 @@
 Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme alanında, özellikle Flutter ve Dart üzerine kendimi sürekli geliştirmeye çalışıyorum. Bu alanda online eğitimler alıyor, kurslara katılıyor, teknik yazılar okuyor ve öğrendiklerimi pratiğe dökmek için projeler üretiyorum. Amacım, öğrendiklerimi kullanarak yenilikçi ve etkili mobil uygulamalar geliştirmek ve bu alanda ilerlemek.
 </h2>
 
+![](https://komarev.com/ghpvc/?username=uluckabd&color=green)
+
 
 **E-posta:** [ulucakabdullah1@gmail.com](mailto:ulucakabdullah1@gmail.com)
 
