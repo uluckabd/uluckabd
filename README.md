@@ -32,7 +32,7 @@ Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğ
 ## 📫 Connect
 
 <p align="center">
-  
+
   <a href="https://www.linkedin.com/in/abdullah-ulucak-3b6b92333" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
